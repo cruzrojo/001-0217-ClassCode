@@ -1,0 +1,8 @@
+Pseudocode: Capitalize Function in Javascript
+
+1. create a variabe that holds a sting with more than 2 words that is all lower case.
+2. create a function that selects and capitalizes the first letter of the seperate words.
+	a. research how to pull apart a string
+	b. research how to seperate the letters of the string
+	c. research how to capitalize the letter and reattach the letter to the word and the word to the string
+3. CELEBRATE!!!!

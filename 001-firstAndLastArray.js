@@ -35,7 +35,7 @@ arrtopicssample[0].textContent
 
 const sampleTopicList = arrtopicssample.map(e => e.textContent)
 
-copy(saampleTopicList)
+copy(sampleTopicList)
 
 /*
 [
