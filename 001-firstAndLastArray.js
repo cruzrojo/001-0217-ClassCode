@@ -1,8 +1,8 @@
-let myArray = ['bad shit', 'good shit', 'really good shit', 'this is bad shit']
-console.log(myArray)
+// let myArray = ['bad shit', 'good shit', 'really good shit', 'this is bad shit']
+// console.log(myArray)
 
-let theGood = myArray.slice(1, 3)
-console.log(theGood)
+// let theGood = myArray.slice(1, 3)
+// console.log(theGood)
 
 // let theBad = myArray.pop() + myArray.pop(0);
 // console.log(theBad)
