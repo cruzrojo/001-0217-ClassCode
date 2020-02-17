@@ -1,0 +1,7 @@
+#Pseudocode for the First and Last Element from a Javascript Aray Coding assignment
+
+1. create code that has a variable that is an array
+2. create code that allows the clipping of the first and last elements.
+3. create code that does the same thing in a different way.
+4. create a function that allows for the clipping of the same array.
+5. Celebrate!!!
